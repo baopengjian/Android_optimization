@@ -1,5 +1,6 @@
 # optimization
 性能优化汇总Demo
+Android 性能与内存泄漏练习集，包含典型泄漏案例、LeakCanary/MAT 使用、Bitmap/JNI 压缩与线程/JobScheduler 优化示例，便于学习排查与优化实践。
 
 [性能优化01_内存泄漏](https://blog.csdn.net/baopengjian/article/details/103880467)
 
